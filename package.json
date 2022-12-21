@@ -55,6 +55,7 @@
   "keywords": [
     "artus",
     "artus-cli",
+    "artus-cli-plugin",
     "command-line-app",
     "cli",
     "commander"
