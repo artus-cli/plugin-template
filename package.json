@@ -25,9 +25,9 @@
     "prepack": "npm run tsc"
   },
   "dependencies": {
-    "@artus-cli/artus-cli": "latest"
   },
   "devDependencies": {
+    "@artus-cli/artus-cli": "latest",
     "@artus/eslint-config-artus": "^0.0.1",
     "@artus/tsconfig": "^1",
     "@types/mocha": "^9.1.1",
