@@ -1,1 +1,1 @@
-export * from './cmd/Example';
+export * from './cmd/example';
