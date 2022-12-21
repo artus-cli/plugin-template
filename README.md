@@ -15,7 +15,7 @@ template repository for artus-cli
 ## Install
 
 ```sh
-$ npm i @artus-cli/artus-cli
+$ npm i -D @artus-cli/artus-cli 
 ```
 
 ## Usage
